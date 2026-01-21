@@ -4,7 +4,7 @@
   "changeLog": "- Fixed critical bug in calibration module\n- Improved database performance\n- Added new reporting features\n- Updated UI themes",
   "downloadUrl": "https://github.com/pavlinchuk/LMS/raw/refs/heads/master/19012026.zip",
   "fileSize": 21139,
-  "checksum": "25B017C39BB1A1CC907B82067FC59DA14821DE6112DA7C5A7544DC90904C1E91",
+  "checksum": "68E320D14BD0D0C531AAA21DC1B646DAE5460D1AC3EAE2BAFBCE48EAF10FC33D",
   "isRequired": false,
   "minimumWindowsVersion": "7"
 }
