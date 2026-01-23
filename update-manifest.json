@@ -3,8 +3,8 @@
   "releaseDate": "2026-01-15",
   "changeLog": "- Fixed critical bug in calibration module\n- Improved database performance\n- Added new reporting features\n- Updated UI themes",
   "downloadUrl": "https://github.com/pavlinchuk/LMS/raw/refs/heads/master/19012026.zip",
-  "fileSize": 21139,
-  "checksum": "68E320D14BD0D0C531AAA21DC1B646DAE5460D1AC3EAE2BAFBCE48EAF10FC33D",
+  "fileSize": 21656513,
+  "checksum": "F0DF58F7EBD50B392DB19417CB50F813E29ACA3729FC01F87C8325FA7799AF55",
   "isRequired": false,
   "minimumWindowsVersion": "7"
 }
