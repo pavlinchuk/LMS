@@ -1,10 +1,10 @@
 {
-  "version": "2.1.0.2",
+  "version": "2.1.0.3",
   "releaseDate": "2026-01-15",
   "changeLog": "- Fixed critical bug in calibration module\n- Improved database performance\n- Added new reporting features\n- Updated UI themes",
   "downloadUrl": "https://github.com/pavlinchuk/LMS/raw/refs/heads/master/Update.zip",
-  "fileSize": 21737300,
-  "checksum": "EC6A90833B456BEB19CC40BFE0E86648A529103B8F65BB6D2EE12A1D17249337",
+  "fileSize": 21737609,
+  "checksum": "EBFA48E9EFCE6D83A4BFDD7D5F9E03640BAB90DEBEF70F37AA8D66E38F186F3F",
   "isRequired": false,
   "minimumWindowsVersion": "7"
 }
