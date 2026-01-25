@@ -1,10 +1,1 @@
-{
-  "version": "1.0.1",
-  "releaseDate": "2026-01-24",
-  "changeLog": "Імплементація автоматичного оновлення",
-  "downloadUrl": "https://github.com/pavlinchuk/LMS/raw/refs/heads/master/Update.zip",
-  "fileSize": 848905,
-  "checksum": "14284347EC309C48F543F582A97A5C67B7DDF073F251D1D3DD2CE302EB7A9D86",
-  "isRequired": true,
-  "minimumWindowsVersion": "7"
-}
+{"Version":"1.0.1","ReleaseDate":"2026-01-25T22:30:25.0325571+03:00","ChangeLog":"","DownloadUrl":"https://github.com/pavlinchuk/LMS/raw/refs/heads/master/Update.zip","FileSize":21745425,"Checksum":"D68BAB084ED7FF601E33B3AB338775631FA11D545B950E427D1DD3159B0C4691","IsRequired":false,"MinimumWindowsVersion":"7","InstalledDate":null,"InstalledChecksum":null}
