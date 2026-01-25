@@ -1,12 +1,1 @@
-{
-"version": "1.0.2",
-"releaseDate": "2026-01-25T22:30:25.0325571+03:00",
-"changeLog": "",
-"downloadUrl": "https://github.com/pavlinchuk/LMS/raw/refs/heads/master/Update.zip",
-"fileSize" :21745425,
-"checksum": "D68BAB084ED7FF601E33B3AB338775631FA11D545B950E427D1DD3159B0C4691",
-"isRequired": false,
-"minimumWindowsVersion": "7",
-"InstalledDate": null,
-"InstalledChecksum":null
-}
+{"Version":"1.0.1","ReleaseDate":"2026-01-25T22:52:35.1108716+03:00","ChangeLog":"","DownloadUrl":"https://github.com/pavlinchuk/LMS/raw/refs/heads/master/Update.zip","FileSize":21745425,"Checksum":"D68BAB084ED7FF601E33B3AB338775631FA11D545B950E427D1DD3159B0C4691","IsRequired":false,"MinimumWindowsVersion":"7","InstalledDate":null,"InstalledChecksum":null}
